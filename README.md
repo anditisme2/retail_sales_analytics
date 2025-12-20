@@ -48,15 +48,15 @@ Key relationships:\
 1. Champions\
 • Have the highest average monetary value\
 • Purchase relatively recently and frequently, showing high engagement\
-• Represent a small but highly valuable customer segment driving the largest share of revenue\
+• Represent a small but highly valuable customer segment driving the largest share of revenue
 2. Potential Loyalists\
 • The largest customer segment, contributing significantly to total revenue due to sheer volume\
 • Show moderate-to-high-spending but lower frequency than Champions\
-• Exhibit strong potential to transition into high-value customers\
+• Exhibit strong potential to transition into high-value customers
 3. At Risk\
 • Generated meaningful revenue in the past but have been inactive recently (high recency values)\
 • Show declining purchase frequency\
-• Represent a critical churn-risk segment where revenue loss is likely\
+• Represent a critical churn-risk segment where revenue loss is likely
 4. Low Value\
 • Have the lowest average monetary value among all segments\
 • Show low frequency and low spend, indicating minimal engagement\
