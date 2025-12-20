@@ -23,7 +23,7 @@ This project addresses these challenges by answering through analysis:\
 
 ## Dataset
 Brazillian E-commerce Dataset by Olist (Size: ~100k orders)\
-Tables Used:
+Tables Used:\
 • customers\
 • orders\
 • order_items\
