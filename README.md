@@ -1,4 +1,4 @@
-# retail_sales_analytics
+# RETAIL SALES ANALYSIS
 
 ## Project Overview
 This project aims to analyze real-world e-commerce transaction data to uncover sales trend, customer behaviour, and product performance using SQL and Python. The analysis focuses on sales analytics and RFM (Recency, Frquency, Monetary) based customer segmentation to help businesses improve retention, optimize marketing strategies, and drive revenue growth.\
